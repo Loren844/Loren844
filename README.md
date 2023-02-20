@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Loren844
 - 👀 I want to learn a lot of things about coding !
-- 🌱 I’m currently 17 years old
+- 🌱 I’m currently 18 years old
 - 🏫 I am in my first year of graduate studies in computer science !
 - 🐤 Twitter : @theryudoy
 
