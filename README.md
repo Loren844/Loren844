@@ -14,7 +14,7 @@ I work on **Software-Defined Vehicle** platforms at [Ampere Software Technology]
 ### 📌 Highlights
 | Project | What |
 |---|---|
-| [project-10-dniit](https://github.com/Loren844/project-10-dniit) | Visual servoing of a 4-DOF SCARA robot (ROS2, YOLO, MATLAB) |
+| [scara-visual-servoing](https://github.com/Loren844/project-10-dniit) | Visual servoing of a 4-DOF SCARA robot (ROS2, YOLO, MATLAB) |
 | [rust-chip-8](https://github.com/Loren844/rust-chip-8) | CHIP-8 emulator in Rust + SDL2 |
 | [portfolio](https://github.com/Loren844/portfolio) | Terminal-style portfolio — [lorenzo-baladier.fr](https://lorenzo-baladier.fr) |
 
